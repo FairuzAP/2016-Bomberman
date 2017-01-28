@@ -1,0 +1,30 @@
+
+28-01-2017 17:40:08:687 - D: 	Executing bot with following commands TEST_BOT_1\Reference\bin\Release\Reference.exe A "D:\ITB\Asisten Stima\2016-Bomberman\v1.2.6\Game Engine\Replays\1919137927\15\A"
+28-01-2017 17:40:08:687 - I: 	Executing process TEST_BOT_1\Reference\bin\Release\Reference.exe A "D:\ITB\Asisten Stima\2016-Bomberman\v1.2.6\Game Engine\Replays\1919137927\15\A"
+28-01-2017 17:40:08:697 - I: 	Bot has 4000ms to run before it will be forcefully killed
+28-01-2017 17:40:08:896 - I: 	Output from bot: *********************
+28-01-2017 17:40:08:896 - I: 	Output from bot: *.....   # #   # # #*
+28-01-2017 17:40:08:896 - I: 	Output from bot: *.* *.* * * * * * * *
+28-01-2017 17:40:08:896 - I: 	Output from bot: *. A#... # # #  ##  *
+28-01-2017 17:40:08:896 - I: 	Output from bot: *.*.* *.* * * * * *#*
+28-01-2017 17:40:08:896 - I: 	Output from bot: *. ... .........    *
+28-01-2017 17:40:08:896 - I: 	Output from bot: *.* *.*#*#*#*#*.* *#*
+28-01-2017 17:40:08:896 - I: 	Output from bot: *... ... .......    *
+28-01-2017 17:40:08:898 - I: 	Output from bot: * *.*#*.*.*#* *#* * *
+28-01-2017 17:40:08:898 - I: 	Output from bot: *# .....#.####     #*
+28-01-2017 17:40:08:898 - I: 	Output from bot: *#* *#*#*..#*#*#* *#*
+28-01-2017 17:40:08:898 - I: 	Output from bot: *#     #######     #*
+28-01-2017 17:40:08:898 - I: 	Output from bot: * * *#* *#*#* *#* * *
+28-01-2017 17:40:08:898 - I: 	Output from bot: *                   *
+28-01-2017 17:40:08:898 - I: 	Output from bot: *#* * *#*#*#*#* * *#*
+28-01-2017 17:40:08:898 - I: 	Output from bot: *        # #        *
+28-01-2017 17:40:08:898 - I: 	Output from bot: *#* * * * * * * * *#*
+28-01-2017 17:40:08:898 - I: 	Output from bot: *  ##  # # # #  #B  *
+28-01-2017 17:40:08:898 - I: 	Output from bot: * * * * * * * * * * *
+28-01-2017 17:40:08:898 - I: 	Output from bot: *# # #   # #   ##   *
+28-01-2017 17:40:08:898 - I: 	Output from bot: *********************
+28-01-2017 17:40:08:898 - I: 	Output from bot: Executing move command
+28-01-2017 17:40:08:898 - I: 	Output from bot: Sending Back command MoveDown
+28-01-2017 17:40:08:901 - E: 	Output from bot: 
+28-01-2017 17:40:08:901 - I: 	Output from bot: 
+28-01-2017 17:40:08:903 - I: 	Your bots total execution time was 00:00:00.2080864

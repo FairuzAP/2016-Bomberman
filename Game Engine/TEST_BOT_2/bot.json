@@ -1,0 +1,8 @@
+{
+	"Author":"Jessica Doe",
+    "Email":"jessica.doe@example.com",
+    "NickName" :"jessica",
+    "BotType": "CSharp",
+    "ProjectLocation" : "",
+    "RunFile" : "Reference\\bin\\Release\\Reference.exe"
+}

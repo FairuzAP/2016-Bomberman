@@ -1,0 +1,13 @@
+
+28-01-2017 17:36:23:610 - I: 	Added Command DoNothingCommand for Player PlayerEntity(X:2, Y:2, Key:A)
+28-01-2017 17:36:24:044 - I: 	Added Command DoNothingCommand for Player PlayerEntity(X:20, Y:20, Key:B)
+28-01-2017 17:36:24:044 - D: 	Beginning round processing
+28-01-2017 17:36:24:044 - D: 	Removing Bomb Explosions from map
+28-01-2017 17:36:24:044 - D: 	Decreasing Bomb Timers
+28-01-2017 17:36:24:044 - D: 	Detonating Bombs
+28-01-2017 17:36:24:044 - D: 	Processing Player Commands
+28-01-2017 17:36:24:044 - D: 	Applying player power ups
+28-01-2017 17:36:24:044 - D: 	Destroying marked entities
+28-01-2017 17:36:24:044 - I: 	Player PlayerEntity(X:2, Y:2, Key:A) has a movement coverage of 0,36% for the map
+28-01-2017 17:36:24:044 - I: 	Player PlayerEntity(X:20, Y:20, Key:B) has a movement coverage of 0,36% for the map
+28-01-2017 17:36:24:044 - D: 	Round processing complete

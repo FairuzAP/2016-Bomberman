@@ -1,0 +1,14 @@
+
+28-01-2017 17:40:02:896 - I: 	Added Command PlaceBombCommand for Player PlayerEntity(X:3, Y:4, Key:A)
+28-01-2017 17:40:03:141 - I: 	Added Command MovementCommand(Up) for Player PlayerEntity(X:20, Y:20, Key:B)
+28-01-2017 17:40:03:141 - D: 	Beginning round processing
+28-01-2017 17:40:03:141 - D: 	Removing Bomb Explosions from map
+28-01-2017 17:40:03:141 - D: 	Decreasing Bomb Timers
+28-01-2017 17:40:03:141 - D: 	Detonating Bombs
+28-01-2017 17:40:03:141 - D: 	Processing Player Commands
+28-01-2017 17:40:03:141 - I: 	Trying to move player B to destination Location(X:20,Y:19)
+28-01-2017 17:40:03:141 - D: 	Applying player power ups
+28-01-2017 17:40:03:141 - D: 	Destroying marked entities
+28-01-2017 17:40:03:141 - I: 	Player PlayerEntity(X:3, Y:4, Key:A) has a movement coverage of 1,42% for the map
+28-01-2017 17:40:03:141 - I: 	Player PlayerEntity(X:20, Y:19, Key:B) has a movement coverage of 1,07% for the map
+28-01-2017 17:40:03:141 - D: 	Round processing complete

@@ -1,0 +1,20 @@
+
+28-01-2017 17:40:00:625 - I: 	Loaded bot TEST_BOT_1
+28-01-2017 17:40:00:625 - I: 	Loaded bot TEST_BOT_2
+28-01-2017 17:40:00:625 - I: 	Registered player John
+28-01-2017 17:40:00:625 - I: 	Registered player jessica
+28-01-2017 17:40:00:655 - I: 		OK!
+28-01-2017 17:40:01:305 - I: 	Added Command MovementCommand(Down) for Player PlayerEntity(X:2, Y:2, Key:A)
+28-01-2017 17:40:01:558 - I: 	Added Command MovementCommand(Left) for Player PlayerEntity(X:20, Y:20, Key:B)
+28-01-2017 17:40:01:568 - D: 	Beginning round processing
+28-01-2017 17:40:01:568 - D: 	Removing Bomb Explosions from map
+28-01-2017 17:40:01:568 - D: 	Decreasing Bomb Timers
+28-01-2017 17:40:01:568 - D: 	Detonating Bombs
+28-01-2017 17:40:01:568 - D: 	Processing Player Commands
+28-01-2017 17:40:01:610 - I: 	Trying to move player A to destination Location(X:2,Y:3)
+28-01-2017 17:40:01:610 - I: 	Trying to move player B to destination Location(X:19,Y:20)
+28-01-2017 17:40:01:613 - D: 	Applying player power ups
+28-01-2017 17:40:01:615 - D: 	Destroying marked entities
+28-01-2017 17:40:01:625 - I: 	Player PlayerEntity(X:2, Y:3, Key:A) has a movement coverage of 0,71% for the map
+28-01-2017 17:40:01:625 - I: 	Player PlayerEntity(X:19, Y:20, Key:B) has a movement coverage of 0,71% for the map
+28-01-2017 17:40:01:625 - D: 	Round processing complete

@@ -1,0 +1,24 @@
+
+28-01-2017 17:36:14:017 - E: 	Failed to load bot /TEST_BOT_1System.IO.FileNotFoundException: No bot meta file found at location /TEST_BOT_1\bot.json
+   at TestHarness.Util.BotMetaReader.ReadBotMeta(String botLocation) in w:\Projects\100k\2016\GitHub\Game Engine\Bomberman\TestHarness\Util\BotMetaReader.cs:line 20
+   at Bomberman.BombermanGame.LoadBot(String botLocation, String logLocation, Boolean noLimit, Boolean haltOnError)
+
+28-01-2017 17:36:14:107 - E: 	Failed to load bot /TEST_BOT_2System.IO.FileNotFoundException: No bot meta file found at location /TEST_BOT_2\bot.json
+   at TestHarness.Util.BotMetaReader.ReadBotMeta(String botLocation) in w:\Projects\100k\2016\GitHub\Game Engine\Bomberman\TestHarness\Util\BotMetaReader.cs:line 20
+   at Bomberman.BombermanGame.LoadBot(String botLocation, String logLocation, Boolean noLimit, Boolean haltOnError)
+
+28-01-2017 17:36:14:107 - I: 	Registered player Player 1
+28-01-2017 17:36:14:107 - I: 	Registered player Player 2
+28-01-2017 17:36:14:157 - I: 		OK!
+28-01-2017 17:36:20:501 - I: 	Added Command DoNothingCommand for Player PlayerEntity(X:2, Y:2, Key:A)
+28-01-2017 17:36:22:622 - I: 	Added Command DoNothingCommand for Player PlayerEntity(X:20, Y:20, Key:B)
+28-01-2017 17:36:22:632 - D: 	Beginning round processing
+28-01-2017 17:36:22:632 - D: 	Removing Bomb Explosions from map
+28-01-2017 17:36:22:632 - D: 	Decreasing Bomb Timers
+28-01-2017 17:36:22:632 - D: 	Detonating Bombs
+28-01-2017 17:36:22:652 - D: 	Processing Player Commands
+28-01-2017 17:36:22:702 - D: 	Applying player power ups
+28-01-2017 17:36:22:712 - D: 	Destroying marked entities
+28-01-2017 17:36:22:729 - I: 	Player PlayerEntity(X:2, Y:2, Key:A) has a movement coverage of 0,36% for the map
+28-01-2017 17:36:22:729 - I: 	Player PlayerEntity(X:20, Y:20, Key:B) has a movement coverage of 0,36% for the map
+28-01-2017 17:36:22:729 - D: 	Round processing complete

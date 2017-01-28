@@ -1,0 +1,32 @@
+
+28-01-2017 17:40:01:305 - I: 	Executing process D:\ITB\Asisten Stima\2016-Bomberman\v1.2.6\Game Engine\Calibrations\BotCalibrationDotNet.exe B "D:\ITB\Asisten Stima\2016-Bomberman\v1.2.6\Game Engine\Replays\1919137927\0\B"
+28-01-2017 17:40:01:368 - I: 	Bot calibration complete and can run an additional 54ms due to environment startup
+28-01-2017 17:40:01:370 - D: 	Executing bot with following commands TEST_BOT_2\Reference\bin\Release\Reference.exe B "D:\ITB\Asisten Stima\2016-Bomberman\v1.2.6\Game Engine\Replays\1919137927\0\B"
+28-01-2017 17:40:01:370 - I: 	Executing process TEST_BOT_2\Reference\bin\Release\Reference.exe B "D:\ITB\Asisten Stima\2016-Bomberman\v1.2.6\Game Engine\Replays\1919137927\0\B"
+28-01-2017 17:40:01:375 - I: 	Bot has 4000ms to run before it will be forcefully killed
+28-01-2017 17:40:01:558 - I: 	Output from bot: *********************
+28-01-2017 17:40:01:558 - I: 	Output from bot: *A ###   # #   # # #*
+28-01-2017 17:40:01:558 - I: 	Output from bot: * * * * * * * * * * *
+28-01-2017 17:40:01:558 - I: 	Output from bot: *  ##  # # # #  ##  *
+28-01-2017 17:40:01:558 - I: 	Output from bot: *#* * * * * * * * *#*
+28-01-2017 17:40:01:558 - I: 	Output from bot: *        # #        *
+28-01-2017 17:40:01:558 - I: 	Output from bot: *#* * *#*#*#*#* * *#*
+28-01-2017 17:40:01:558 - I: 	Output from bot: *                   *
+28-01-2017 17:40:01:558 - I: 	Output from bot: * * *#* *#*#* *#* * *
+28-01-2017 17:40:01:558 - I: 	Output from bot: *#     #######     #*
+28-01-2017 17:40:01:558 - I: 	Output from bot: *#* *#*#*#.#*#*#* *#*
+28-01-2017 17:40:01:558 - I: 	Output from bot: *#     ###..##     #*
+28-01-2017 17:40:01:558 - I: 	Output from bot: * * *#* *#*.* *#* * *
+28-01-2017 17:40:01:558 - I: 	Output from bot: *          ...      *
+28-01-2017 17:40:01:558 - I: 	Output from bot: *#* * *#*#*#*.* * *#*
+28-01-2017 17:40:01:558 - I: 	Output from bot: *        # # ...    *
+28-01-2017 17:40:01:558 - I: 	Output from bot: *#* * * * * * *.* *#*
+28-01-2017 17:40:01:558 - I: 	Output from bot: *  ##  # # # # ...  *
+28-01-2017 17:40:01:558 - I: 	Output from bot: * * * * * * * * *.* *
+28-01-2017 17:40:01:558 - I: 	Output from bot: *# # #   # #   ##..B*
+28-01-2017 17:40:01:558 - I: 	Output from bot: *********************
+28-01-2017 17:40:01:558 - I: 	Output from bot: Executing move command
+28-01-2017 17:40:01:558 - I: 	Output from bot: Sending Back command MoveLeft
+28-01-2017 17:40:01:558 - I: 	Output from bot: 
+28-01-2017 17:40:01:558 - E: 	Output from bot: 
+28-01-2017 17:40:01:558 - I: 	Your bots total execution time was 00:00:00.1954104
